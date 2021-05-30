@@ -1,2 +1,3 @@
-# SP110
-Biblioteca para el sensor Apogee SP-110
+# Biblioteca Piranómetro Apogee SP-110
+## Autores: Joseph Santiago Portilla - Karen Stefania Mirama
+### Universidad de Nariño
